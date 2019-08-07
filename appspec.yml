@@ -2,4 +2,5 @@ version: 0.0
 os: linux
 files:
   - source: ./my-app-1.0-SNAPSHOT.jar
-    destination: /tmp
+    destination: /opt/tomcat/apache-tomcat-7.0.96/webapps
+
